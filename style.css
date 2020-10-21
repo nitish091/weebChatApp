@@ -1,0 +1,49 @@
+.body{
+    justify-content: center;
+}
+.main{
+    background-color: #f6f6f6f6;
+    text-align: center;
+    margin: 75px 100px;
+    padding: 7px;
+    display: inline-block;
+}
+.msgContainer{
+    min-width: 500px;
+    min-height: 500px;
+    padding: auto;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.send{
+    /* text-align: center; */
+    margin: 4px 11px;
+    padding: 7px;
+    border-radius: 7px;
+}
+.message{
+    font: arial;
+    color: black;
+    display: inline;
+    background-color: #ececec;
+    margin: 4px 11px;
+    padding: 7px;
+    border-radius: 7px;
+}
+#msgToSend{
+    padding: 7px;
+    border-radius: 7px;
+    width: 82%;
+}
+.btn{
+    background-color:blue;
+    color: white;
+    padding: 7px 11px;
+    border-radius: 7px;
+}
